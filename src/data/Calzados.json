@@ -1,0 +1,153 @@
+[
+    {   
+        "id":"1",
+        "title":"Nike",
+        "price":4000,
+        "category":"Deportivo",
+        "description":"Los calzados Nike son una elección emblemática y reconocida en el mundo del deporte. Con una larga historia de innovación y liderazgo en la industria, la marca Nike se ha convertido en sinónimo de rendimiento, estilo y calidad.Los calzados Nike están diseñados para ofrecer un rendimiento óptimo en una amplia variedad de deportes y actividades físicas. Utilizan materiales de alta calidad y tecnologías avanzadas para brindar comodidad, durabilidad y soporte durante el ejercicio. La amortiguación eficiente y las suelas de tracción ofrecen una pisada suave, reactiva y estable, mejorando el rendimiento y reduciendo el riesgo de lesiones.La gama de calzados Nike es extensa, abarcando desde zapatillas para correr y entrenamiento hasta calzados específicos para deportes como el fútbol, el baloncesto, el tenis y muchos más. Cada modelo está diseñado con características específicas que se adaptan a las demandas del deporte en particular, brindando un rendimiento especializado y una experiencia óptima.",
+        "images":"https://http2.mlstatic.com/D_NQ_NP_768903-MLU54148728785_032023-O.webp",
+        "previous_price":"$4300",
+        "stock":"Disponible"
+    },
+    {
+        "id":"2",
+        "title":"Adidas",
+        "price":3900,
+        "category":"Deportivo",
+        "description":"Los calzados Adidas son una elección icónica y reconocida en el mundo del deporte. Con una rica historia y una dedicación constante a la innovación, la marca Adidas se ha convertido en sinónimo de calidad, rendimiento y estilo deportivo.Los calzados Adidas están diseñados para ofrecer un rendimiento excepcional en una amplia gama de deportes y actividades físicas. Utilizan materiales de alta calidad y tecnologías avanzadas para brindar comodidad, durabilidad y soporte durante el ejercicio. La amortiguación responsiva y las suelas de tracción ofrecen una pisada suave y estable, ayudando a mejorar el rendimiento y prevenir lesiones.La variedad de calzados Adidas es extensa, cubriendo una amplia gama de deportes y actividades, como correr, fútbol, baloncesto, tenis y más. Cada modelo está diseñado con características específicas para adaptarse a las demandas del deporte en particular, brindando una experiencia óptima y maximizando el rendimiento.",
+        "images":"https://http2.mlstatic.com/D_NQ_NP_877843-MLU51738136798_092022-O.webp",
+        "previous_price":"$4199",
+        "stock":"Disponible"
+    },
+    {
+        "id":"3",
+        "title":"Under Armour",
+        "price":5000,
+        "category":"Deportivo",
+        "description":"Los calzados Under Armour son una elección popular y confiable para aquellos que buscan un calzado deportivo de alto rendimiento. Con una reputación establecida en el mundo del deporte, la marca Under Armour se ha destacado por su calidad, tecnología innovadora y diseño funcional.Los calzados Under Armour están diseñados para brindar un equilibrio perfecto entre comodidad, soporte y rendimiento. Utilizan materiales duraderos y transpirables que se adaptan a la forma del pie, proporcionando una sensación de ligereza y frescura durante la actividad física. Además, incorporan tecnologías avanzadas, como amortiguación responsiva y sistemas de estabilidad, para optimizar el rendimiento y prevenir lesiones.La variedad de calzados Under Armour es amplia, abarcando desde zapatillas para correr hasta calzados específicos para deportes como el baloncesto, el fútbol, el entrenamiento cruzado y más. Cada modelo está diseñado con características específicas para satisfacer las necesidades de ese deporte en particular, brindando un apoyo especializado y una tracción adecuada para el movimiento específico requerido.",
+        "images":"https://http2.mlstatic.com/D_NQ_NP_954770-MLU69710108637_052023-O.webp",
+        "previous_price":"$5399",
+        "stock":"Disponible"
+
+    },
+    {
+        "id":"4",
+        "title":"Puma",
+        "price":4900,
+        "category":"Deportivo",
+        "description":"Los calzados Puma son una elección popular y reconocida en el ámbito deportivo. Con una larga trayectoria en la industria del calzado deportivo, la marca Puma se ha destacado por su combinación de estilo, rendimiento y comodidad.Los calzados Puma están diseñados pensando en los atletas y entusiastas del deporte. Utilizan materiales de alta calidad y tecnologías innovadoras para brindar soporte, durabilidad y ventilación durante la actividad física. La amortiguación eficiente y las suelas resistentes proporcionan una pisada cómoda y estable en todo tipo de terrenos.La variedad de calzados Puma es amplia, abarcando desde zapatillas para correr hasta calzados específicos para deportes como el fútbol, el baloncesto, el golf y más. Cada modelo está diseñado con características específicas para mejorar el rendimiento y la comodidad en ese deporte en particular.",
+        "images":"https://http2.mlstatic.com/D_NQ_NP_943548-MLU52575492600_112022-O.webp",
+        "previous_price":"$5090",
+        "stock":"Disponible"
+    },
+    {
+        "id":"5",
+        "title":"New Balance",
+        "price":5200,
+        "category":"Deportivo",
+        "description":"Los calzados New Balance son una elección popular y reconocida en el ámbito deportivo. Con una larga historia de fabricación de calzado de calidad, la marca New Balance se ha destacado por su enfoque en la comodidad, el rendimiento y la innovación.Los calzados New Balance están diseñados pensando en las necesidades de los atletas. Utilizan materiales duraderos y transpirables para brindar soporte y ventilación durante la práctica deportiva. Además, cuentan con tecnologías avanzadas, como amortiguación responsiva y sistemas de estabilidad, para optimizar tu rendimiento y reducir el riesgo de lesiones.La variedad de calzados New Balance es amplia, abarcando desde zapatillas para correr hasta calzados específicos para deportes como el tenis, el baloncesto o el fútbol. Cada modelo está diseñado con características específicas para maximizar el desempeño en ese deporte particular.",
+        "images":"https://http2.mlstatic.com/D_NQ_NP_716644-MLU50221604089_062022-O.webp",
+        "previous_price":"$5590",
+        "stock":"Disponible"
+    },
+    {
+        "id":"6",
+        "title":"Reebok",
+        "price":4500,
+        "category":"deportivo",
+        "description":"Los calzados Reebok son una elección popular y confiable para aquellos que buscan un calzado deportivo de alta calidad. Con una larga trayectoria en el mundo del deporte, la marca Reebok se ha ganado una reputación por su rendimiento, estilo y comodidad.Los calzados Reebok están diseñados pensando en el rendimiento atlético. Están confeccionados con materiales duraderos y transpirables, que brindan soporte y ventilación durante tus actividades físicas. Además, cuentan con tecnologías avanzadas, como amortiguación eficiente y suelas antideslizantes, para garantizar un rendimiento óptimo en cada paso.El estilo de los calzados Reebok combina funcionalidad y moda. Puedes encontrar una amplia variedad de diseños, desde zapatillas para correr hasta calzados para entrenamiento cruzado o para deportes específicos. Cada modelo tiene su propia estética y características específicas, adaptándose a diferentes necesidades y preferencias deportivas.",
+        "images":"https://http2.mlstatic.com/D_NQ_NP_713393-MLU48851722481_012022-O.webp",
+        "previous_price":"$4990",
+        "stock":"Disponible"
+    },
+    {
+        "id":"7",
+        "title":"Nauticas",
+        "price":4900,
+        "category":"Casual",
+        "description":"Las náuticas son una elección clásica y atemporal para aquellos que buscan un calzado casual con un toque náutico. Estos zapatos se inspiran en la moda marina y son reconocidos por su estilo relajado y versatilidad.Las náuticas se caracterizan por su diseño distintivo, que incluye cordones alrededor del cuello del zapato y suelas de goma antideslizante. Están confeccionadas con materiales duraderos y de alta calidad, como cuero suave o lona resistente, que proporcionan confort y durabilidad a largo plazo.El estilo de las náuticas evoca la elegancia casual y el espíritu aventurero de la vida marítima. Estos zapatos son una opción versátil para combinar con diferentes conjuntos casuales. Puedes usarlos con pantalones chinos, jeans o bermudas, creando un look fresco y relajado.",
+        "images":"https://http2.mlstatic.com/D_NQ_NP_844351-MLU52647507816_112022-O.webp",
+        "previous_price":"$5290",
+        "stock":"Disponible"
+    },
+    {
+        "id":"8",
+        "title":"Sneakers",
+        "price":6000,
+        "category":"Casual",
+        "description":"Los sneakers son una opción moderna y versátil para aquellos que buscan un calzado casual y con estilo. Estos zapatos, conocidos también como zapatillas deportivas, combinan comodidad, funcionalidad y moda en un diseño contemporáneo.Los sneakers se caracterizan por su diseño deportivo y urbano. Están confeccionados con materiales ligeros y transpirables, como malla o cuero sintético, que brindan una sensación de frescura y comodidad durante todo el día. Además, su suela flexible y amortiguada proporciona una pisada suave y cómoda.La versatilidad es una de las principales características de los sneakers. Puedes combinarlos fácilmente con jeans, pantalones cortos, faldas o vestidos, creando looks casuales y modernos. Estos zapatos se adaptan a diferentes estilos y ocasiones, desde salidas informales hasta actividades al aire libre.",
+        "images":"https://http2.mlstatic.com/D_NQ_NP_769073-MLU51247349540_082022-O.webp",
+        "previous_price":"$6390",
+        "stock":"Disponible"
+    },
+    {
+        "id":"9",
+        "title":"Levi’s",
+        "price":5390,
+        "category":"Casual",
+        "description":"Los zapatos Levis son una elección moderna y con estilo para aquellos que buscan un calzado casual y versátil. Inspirados en la icónica marca de moda, estos zapatos combinan comodidad y moda en un diseño contemporáneo.Los zapatos Levis se destacan por su calidad y atención al detalle. Están confeccionados con materiales duraderos y de alta calidad, que garantizan una larga vida útil. Desde la parte superior hasta la suela, cada aspecto del diseño se realiza con cuidado y precisión, ofreciendo una experiencia de uso cómoda y duradera.La línea de calzados Levis ofrece una variedad de estilos, desde zapatillas deportivas hasta zapatos casuales. Cada modelo cuenta con un diseño moderno y un enfoque en la comodidad y la funcionalidad, lo que los convierte en la elección perfecta para el uso diario.",
+        "images":"https://http2.mlstatic.com/D_NQ_NP_634801-MLU51493715443_092022-O.webp",
+        "previous_price":"$5990",
+        "stock":"Disponible"
+    },
+    {
+        "id":"10",
+        "title":"Converse",
+        "price":5999,
+        "category":"Casual",
+        "description":"Los zapatos Converse son un icono del estilo casual y urbano, conocidos por su diseño distintivo y su comodidad. Estos calzados han sido populares durante décadas y se han convertido en un elemento básico en el armario de aquellos que buscan un aspecto fresco y desenfadado.Los Converse se caracterizan por su silueta de zapatilla de lona de corte bajo o alto, con una puntera de goma distintiva. Esta combinación de materiales le da a los zapatos un aspecto casual y a la vez rebelde, que se adapta perfectamente a diversos estilos y ocasiones.La versatilidad de los Converse los convierte en una elección ideal para el uso diario. Puedes combinarlos fácilmente con jeans, pantalones cortos o faldas, creando un look informal y moderno. Además, los Converse están disponibles en una amplia gama de colores y estampados, lo que te permite expresar tu personalidad y estilo único.",
+        "images":"https://http2.mlstatic.com/D_NQ_NP_777799-MLU52851730788_122022-O.webp",
+        "previous_price":"$6390",
+        "stock":"Disponible"
+    },
+    {
+        "id":"11",
+        "title":"Zapato Cuero",
+        "price":7000,
+        "category":"Formal",
+        "description":"Los zapatos de cuero de categoría formal son una elección clásica y elegante para aquellos que buscan destacar con estilo y distinción. Estos zapatos encarnan la sofisticación y la calidad, brindando un aspecto impecable en cualquier ocasión formal.El zapato de cuero se distingue por su construcción cuidadosa y el uso de materiales de alta calidad. Está confeccionado con cuero genuino, que no solo le confiere una apariencia lujosa, sino que también garantiza durabilidad y resistencia a lo largo del tiempo.La artesanía meticulosa se refleja en cada detalle de los zapatos de cuero. Las costuras precisas, los acabados pulidos y los detalles sutiles contribuyen a su estética refinada. Estos zapatos demuestran una dedicación a la perfección y al buen gusto, agregando un toque de elegancia a cualquier conjunto formal.",
+        "images":"https://http2.mlstatic.com/D_NQ_NP_2X_725139-MLU54012924280_022023-F.webp",
+        "previous_price":"$7390",
+        "stock":"Disponible"
+    },
+    {
+        "id":"12",
+        "title":"Zapatos sin cordones",
+        "price":5900,
+        "category":"Formal",
+        "description":"Los zapatos sin cordones de categoría formal son una opción sofisticada y práctica para aquellos que buscan comodidad y estilo sin comprometer la elegancia. Estos zapatos, diseñados sin cierres de cordones tradicionales, brindan un aspecto limpio y refinado que se adapta perfectamente a cualquier ocasión formal.El diseño sin cordones de estos zapatos permite un calce fácil y rápido, sin necesidad de atar ni ajustar los cordones. Esto los convierte en una elección conveniente para aquellos que valoran la comodidad y la eficiencia, sin sacrificar el aspecto elegante que se busca en un calzado formal.",
+        "images":"https://http2.mlstatic.com/D_NQ_NP_930572-MLU50318431327_062022-O.webp",
+        "previous_price":"$6190",
+        "stock":"Disponible"
+    },
+    {
+        "id":"13",
+        "title":"Desert",
+        "price":6900,
+        "category":"Formal",
+        "description":"Los calzados Desert son una elección elegante y sofisticada para aquellos que desean un estilo formal con un toque de originalidad. Inspirados en los clásicos botines desérticos, estos zapatos combinan la estética tradicional con una estilizada y moderna interpretación.Los calzados Desert presentan una silueta de corte bajo con un diseño minimalista, lo que les confiere una apariencia discreta y refinada. Estos zapatos están confeccionados con materiales de alta calidad, como cuero suave o gamuza, que les brindan un aspecto lujoso y una durabilidad excepcional.",
+        "images":"https://http2.mlstatic.com/D_NQ_NP_785680-MLU45185406956_032021-O.webp",
+        "previous_price":"$7190",
+        "stock":"Disponible"
+    },
+    {
+        "id":"14",
+        "title":"Oxford",
+        "price":6199,
+        "category":"Formal",
+        "description":"Los calzados Oxford son un clásico atemporal de la moda formal, reconocidos por su elegancia y refinamiento. Estos zapatos son la elección perfecta para aquellos que buscan una combinación de estilo tradicional y sofisticación contemporánea.El diseño distintivo de los Oxford se caracteriza por su cierre de cordones, que no solo agrega un toque de sofisticación, sino que también permite un ajuste personalizado y cómodo. La silueta de los Oxford es elegante y versátil, lo que los convierte en una opción ideal para ocasiones formales, como bodas, eventos de etiqueta y reuniones de negocios.",
+        "images":"https://http2.mlstatic.com/D_NQ_NP_671027-MLU52251808024_112022-O.webp",
+        "previous_price":"$6590",
+        "stock":"Disponible"
+    },
+    {
+        "id":"15",
+        "title":"Starsax",
+        "price":10000,
+        "category":"Formal",
+        "description":"Cada par de zapatos Starsax está confeccionado con materiales de primera calidad, como cuero genuino y acabados impecables, que le confieren una apariencia lujosa y duradera. La atención al detalle es evidente en cada costura y en cada elemento decorativo, que aportan un toque de elegancia adicional.La línea de calzado formal Starsax presenta una amplia gama de estilos para adaptarse a diferentes ocasiones y gustos. Desde clásicos mocasines y elegantes zapatos Oxford hasta sofisticados zapatos de vestir con detalles sutiles, hay una opción para cada preferencia y personalidad.Además de su exquisito diseño, los zapatos Starsax se destacan por su comodidad. Cada par está cuidadosamente diseñado para proporcionar un ajuste ergonómico y soporte adecuado, permitiéndote caminar con confianza durante largos períodos sin sacrificar tu bienestar.",
+        "images":"https://http2.mlstatic.com/D_NQ_NP_663813-MLU69761625496_062023-O.webp",
+        "previous_price":"$12090",
+        "stock":"Disponible"
+    }
+]
